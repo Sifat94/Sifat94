@@ -1,10 +1,19 @@
-# Assalamualaikum I'm Abdullah All Sifat (Mr. Sifat)
+<!--Header Name-->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=9400D3&center=true&vCenter=true&width=600&lines=Assalamualaikum!;I'm+Abdullah+All+Sifat;Mr.+Sifat" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+<!--Eye GIF-->
+<p align="center">
+  <img src="https://media.giphy.com/avatars/default5.gif" width="300">
+  <br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=2000&pause=100&color=00FF00&center=true&vCenter=true&width=300&lines=About+Me;About+Me;About+Me;About+Me" alt="About Me">
+</p>
+</p>
 
 <table align="center">
 <tr>
@@ -52,7 +61,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px">
@@ -74,7 +83,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 
 
@@ -139,5 +148,5 @@
 </p>
 
 <p align="center">
-  <b>⭐️ From <a href="https://github.com/Sifat94">Sifat94</a></b>
+  <b> Star From <a href="https://github.com/Sifat94">Sifat94</a></b>
 </p>
