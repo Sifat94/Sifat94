@@ -131,22 +131,25 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## Top Contributed Repositories
+## 🔝 Top Contributed Repositories
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Sifat94&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
 </p>
 
+<!-- ফুটার ওয়েভ ইমেজের জন্য নির্ভরযোগ্য লিংক -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:4CAF50&height=120&section=footer&text=Sifat94&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Footer Wave" />
 </p>
 
 ---
 
+<!-- একটি ওয়ার্কিং গেমিং GIF (যদি আগেরটা না কাজ করে) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47i46ko6p5mjzrzb7j8i27lzg4j24r9y7z1q5k7r2k&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25%" alt="Gaming GIF">
 </p>
 
+<!-- সঠিক টেক্সট ফরম্যাট -->
 <p align="center">
-  <b> Star From <a href="https://github.com/Sifat94">Sifat94</a></b>
-</p>
+  <b>⭐️ Star From <a href="https://github.com/Sifat94">Sifat94</a></b>
+</p>>
