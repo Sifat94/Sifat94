@@ -1,6 +1,6 @@
 <!--Header Name-->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=9400D3&center=true&vCenter=true&width=600&lines=Assalamualaikum!;I'm+Abdullah+All+Sifat;Mr.+Sifat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=9400D3&center=true&vCenter=true&width=600&lines=Assalamualaikum!;I'm+Abdullah+Al+Sifat;Mr.+Sifat" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -137,19 +137,16 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Sifat94&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
 </p>
 
-<!-- ফুটার ওয়েভ ইমেজের জন্য নির্ভরযোগ্য লিংক -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:4CAF50&height=120&section=footer&text=Sifat94&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Footer Wave" />
 </p>
 
 ---
 
-<!-- একটি ওয়ার্কিং গেমিং GIF (যদি আগেরটা না কাজ করে) -->
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47i46ko6p5mjzrzb7j8i27lzg4j24r9y7z1q5k7r2k&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25%" alt="Gaming GIF">
 </p>
 
-<!-- সঠিক টেক্সট ফরম্যাট -->
 <p align="center">
   <b>⭐️ Star From <a href="https://github.com/Sifat94">Sifat94</a></b>
-</p>>
+</p>
