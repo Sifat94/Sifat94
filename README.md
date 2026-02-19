@@ -125,12 +125,7 @@
 ## Top Contributed Repositories
 
 <p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%">
-</p>
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sifat94&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
 </p>
 
 <p align="center">
